@@ -16,7 +16,7 @@ P.S. 关于进度：
 
 No. | 原文 | 转载 | 译者 | 校对 | 进度 | 译文
  :-: | :- | :-: | :-: | :- | :-: | :-
-156 | [Handle API call state NICELY](https://blog.angularindepth.com/handle-api-call-state-nicely-445ab37cc9f8?source=---------0---------------------) | - |  |  |  |  |
+156 | [Handle API call state NICELY](https://blog.angularindepth.com/handle-api-call-state-nicely-445ab37cc9f8?source=---------0---------------------) | - | dreamdevil00 |  | 翻译中 |  |
 155 | [Deploying an Angular Site to Firebase with CircleCI](https://blog.angularindepth.com/deploying-an-angular-site-to-firebase-with-circleci-ed881cb6a2fa?source=---------1---------------------) | - |  |  |  |  |
 154 | [Angular Workspace: No Application for You!](https://blog.angularindepth.com/angular-workspace-no-application-for-you-4b451afcc2ba?source=---------2---------------------) | - | 秋天 | sawyerbutton | 校对中 |  |
 153 | [Creating Reusable Angular Components — How To Avoid the Painful Trap Most Go In](https://blog.angularindepth.com/creating-reusable-angular-components-how-to-avoid-the-painful-trap-most-go-in-d531761d6c7a?source=---------3---------------------) | - |  |  |  |  |
@@ -24,7 +24,7 @@ No. | 原文 | 转载 | 译者 | 校对 | 进度 | 译文
 151 | [Debug Angular apps in production without revealing source maps](https://blog.angularindepth.com/debug-angular-apps-in-production-without-revealing-source-maps-ab4a235edd85?source=---------5---------------------) | - |  |  |  |  |
 150 | [Best stories of 2018 on Angular-In-Depth](https://blog.angularindepth.com/best-stories-of-2018-on-angular-in-depth-80a1dfa17fd5?source=---------0---------------------) | - | sawyerbutton | Ice Panpan | 已发表 | [2018年度Angular In Depth专栏最佳文章大赏](articles/angular-150.[翻译]-2018年度Angular-In-Depth专栏最佳文章大赏.md)
 149 | [Improved Navigation in Angular 7 with switchMap](https://blog.angularindepth.com/new-in-angular-7-better-navigations-79267db452c0) | - | sunny |  | 待校验 |  |
-148 | [5 Tips to improve User Experience of your Angular app with NgRx](https://blog.angularindepth.com/5-tips-to-improve-user-experience-of-your-angular-app-with-ngrx-6e849ca99529?source=---------0---------------------) | - | dreamdevil00 |  | 翻译中 |  |
+148 | [5 Tips to improve User Experience of your Angular app with NgRx](https://blog.angularindepth.com/5-tips-to-improve-user-experience-of-your-angular-app-with-ngrx-6e849ca99529?source=---------0---------------------) | - | dreamdevil00 | sawyerbutton | 待发表 | [使用 NgRx 改善用户体验的 5 个技巧](articles/angular-148.[翻译]-使用-NgRx-改善用户体验的-5-个技巧.md) |
 147 | [Gravatar Directive in Angular](https://blog.angularindepth.com/gravatar-directive-in-angular-e379a681dbe4?source=---------1---------------------) | - |  |  |  |  |
 146 | [Angular Smart 404 Page](https://blog.angularindepth.com/angular-smart-404-page-85a45b109fd8?source=---------2---------------------) | - |  |  |  |  |
 145 | [Improved UX with Ghost Elements + Angular 7 Animations](https://blog.angularindepth.com/https-medium-com-thomasburleson-animated-ghosts-bfc045a51fba?source=---------3---------------------) | - |  |  |  |  |
@@ -185,7 +185,7 @@ No. | 原文 | 转载 | 译者 | 校对 | 进度 | 译文
 32 | [RxJS: Avoiding Unbound Methods](https://blog.angularindepth.com/rxjs-avoiding-unbound-methods-fcf2648a805?source=---------5---------------------) | - |  |  |  |  
 31 | [RxJS: Testing with Fake Time](https://blog.angularindepth.com/rxjs-testing-with-fake-time-94114271eed2?source=---------6---------------------) | - |  |  |  |  
 30 | [RxJS: How to Observe an Object](https://blog.angularindepth.com/rxjs-how-to-observe-an-object-20c47cf51571?source=---------7---------------------) | - |  |  |  |  
-29 | [Power of RxJS when using exponential backoff](https://blog.angularindepth.com/power-of-rxjs-when-using-exponential-backoff-a4b8bde276b0?source=---------8---------------------) | - | vaanxy |  | 翻译中 |  
+29 | [Power of RxJS when using exponential backoff](https://blog.angularindepth.com/power-of-rxjs-when-using-exponential-backoff-a4b8bde276b0?source=---------8---------------------) | - | vaanxy | dreamdevil00 | 待发表 | [rxjs-29.[翻译]-指数退避场景下-RxJS-的妙用](articles/rxjs-29.[翻译]-指数退避场景下-RxJS-的妙用.md) 
 28 | [RxJS: Avoiding takeUntil Leaks](https://blog.angularindepth.com/rxjs-avoiding-takeuntil-leaks-fb5182d047ef?source=---------9---------------------) | - |  |  |  |  
 27 | [RxJS: Improving the Static pipe Function](https://blog.angularindepth.com/rxjs-improving-the-static-pipe-function-81146fbb14b6?source=---------10---------------------) | - |  |  |  |  
 26 | [RxJS: Combining Operators](https://blog.angularindepth.com/rxjs-combining-operators-397bad0628d0?source=---------11---------------------) | - |  |  |  |  
@@ -195,7 +195,7 @@ No. | 原文 | 转载 | 译者 | 校对 | 进度 | 译文
 22 | [RxJS: Understanding Expand](https://blog.angularindepth.com/rxjs-understanding-expand-a5f8b41a3602?source=---------15---------------------) | - |  |  |  |  
 21 | [Practical RxJS In The Wild 🦁— Requests with concatMap() vs mergeMap() vs forkJoin() 🥊](https://blog.angularindepth.com/practical-rxjs-in-the-wild-requests-with-concatmap-vs-mergemap-vs-forkjoin-11e5b2efe293?source=---------16---------------------) | - |  |  |  |  
 20 | [RxJS: Composing Subscriptions](https://blog.angularindepth.com/rxjs-composing-subscriptions-b53ab22f1fd5?source=---------17---------------------) | - |  |  |  |  
-19 | [RxJS: Closed Subjects](https://blog.angularindepth.com/rxjs-closed-subjects-1b6f76c1b63c?source=---------18---------------------) | - |  |  |  |  
+19 | [RxJS: Closed Subjects](https://blog.angularindepth.com/rxjs-closed-subjects-1b6f76c1b63c?source=---------18---------------------) | - | Vaanxy |  | 翻译中 |  
 18 | [RxJS: Understanding Subjects](https://blog.angularindepth.com/rxjs-understanding-subjects-5c585188c3e1?source=---------19---------------------) | - |  |  |  |  
 17 | [Insider’s guide into interceptors and HttpClient mechanics in Angular](https://blog.angularindepth.com/insiders-guide-into-interceptors-and-httpclient-mechanics-in-angular-103fbdb397bf?source=---------20---------------------) | - | Ice Panpan | dreamdevil00 | 已发表 |  [[翻译] Angular 中拦截器的真相和 HttpClient 内部机制](articles/rxjs-17.[翻译]-Angular-中拦截器的真相和-HttpClient-内部机制)
 16 | [Learn to combine RxJs sequences with super intuitive interactive diagrams](https://blog.angularindepth.com/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams-20fce8e6511?source=---------21---------------------) | - |  |  |  |  
@@ -250,3 +250,10 @@ No. | 原文 | 转载 | 译者 | 校对 | 进度 | 译文
 No. | 原文 | 转载 | 译者 | 校对 | 进度 | 译文
  :-: | :- | :-: | :-: | :- | :-: | :-
 1 | [Angular How-to: Editable Config Files](https://blogs.msdn.microsoft.com/premier_developer/2018/03/01/angular-how-to-editable-config-files/?source=---------0---------------------) | - | sawyerbutton |  | 待校验 | [如何在 Angular 中使用可编辑的配置文件](articles/others-1.[翻译]-如何在-Angular-中使用可编辑的配置文件.md)
+
+
+## 宣传语模板
+https://zhuanlan.zhihu.com/p/{{id}}
+Angular In Depth系列的再一篇技术博客翻译发布了，这次的主题是 {{主题}}。
+
+现在有一个热爱Angular相关领域的翻译小组正持续翻译Angular相关英文文档及博客。翻译组旨在帮助国内的Angular开发者了解硬核和一手的Angular相关技术，希望大家可以关注下专栏给与我们鼓励 https://zhuanlan.zhihu.com/DepthInAngular
